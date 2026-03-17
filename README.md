@@ -78,17 +78,6 @@ Descripción: Una plataforma social interactiva para compartir fotografías dond
 
 Descripción: An interactive web art gallery showcasing stories of global places through photographs and narratives from technology professionals. Features fully responsive design and integrated NFT functionality for digital art purchases.
 
-## 📈 Mi Progreso
-
-```text
-JavaScript   ████████████████████░   90%
-React        ██████████████░░░░░░░   70%
-Node.js      █████████████░░░░░░░░   65%
-HTML/CSS     ████████████████████░   95%
-MongoDB      ███████████░░░░░░░░░░   55%
-Git/GitHub   ██████████████████░░░   90%
-```
-
 ## 🤝 Conecta Conmigo
 
 <div align="center">
