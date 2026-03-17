@@ -65,15 +65,15 @@ const eduardo = {
 
 ## 💼 Proyectos Destacados
 
-### 🌟 [Proyecto 1](enlace-al-proyecto)
+### 🌟 [Proyecto 1](enlace-al-proyecto](https://final-backend-page.onrender.com/)
 
 Descripción breve del proyecto y tecnologías utilizadas.
 
-### 🌟 [Proyecto 2](enlace-al-proyecto)
+### 🌟 [Proyecto 2](https://aroundthemx.netlify.app/login)
 
 Descripción breve del proyecto y tecnologías utilizadas.
 
-### 🌟 [Proyecto 3](enlace-al-proyecto)
+### 🌟 [Proyecto 3](https://eduardocrco.github.io/web_project_homeland/)
 
 Descripción breve del proyecto y tecnologías utilizadas.
 
