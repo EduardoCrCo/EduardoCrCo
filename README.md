@@ -9,7 +9,7 @@
 ```javascript
 const eduardo = {
   ubicacion: "🌍 Tijuana México",
-  educacion: ["Universidad Autónoma de Baja California": "Licencitura en informática"
+  educacion: ["Universidad Autónoma de Baja California": "Licenciatura en informática"
               "TripleTen": "Desarrollo Web"],
   enfoque: ["Frontend", "Backend", "Full Stack"],
   aprendiendo: ["JavaScript", "React", "Node.js", "HTML/CSS"],
