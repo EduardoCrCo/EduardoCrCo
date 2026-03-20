@@ -59,7 +59,7 @@ const eduardo = {
 
 ## 🌱 Mi Viaje de Aprendizaje
 
-- 🎓 **Actualmente estudiando:** Desarrollo Web en TripleTen
+- 🎓 **Desarrollador Web Certificado:** Desarrollo Web en TripleTen
 - 📚 **Enfocado en:** JavaScript, React y tecnologías web modernas
 - 🎯 **Próximos objetivos:** Dominar el desarrollo Full Stack
 - 💡 **Siempre explorando:** Nuevas tecnologías y mejores prácticas
