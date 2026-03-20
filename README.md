@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Eduardo Cruz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Web+en+Formaci%C3%B3n;Estudiante+de+TripleTen;Apasionado+por+la+Tecnolog%C3%ADa;Siempre+Aprendiendo+Algo+Nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Web+Certificado;Licenciatura+en+Informatica;Apasionado+por+la+Tecnolog%C3%ADa;Siempre+Aprendiendo+Algo+Nuevo" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
