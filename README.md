@@ -67,15 +67,15 @@ const eduardo = {
 
 ## 💼 Proyectos Destacados
 
-### 🌟 [Proyecto 1](https://final-backend-page.onrender.com/)
+### 🌟 [Proyecto 1: De Drones](https://final-backend-page.onrender.com/)
 
 Descripción: Una plataforma de gestión de videos full-stack construida con tecnologías web modernas. La aplicación cuenta con un frontend en React con Vite y un backend robusto en Node.js/Express, que permite a los usuarios gestionar videos, crear listas de reproducción e interactuar mediante un sistema de autenticación seguro.
 
-### 🌟 [Proyecto 2](https://aroundthemx.netlify.app/login)
+### 🌟 [Proyecto 2: Alrededor de Mexico](https://aroundthemx.netlify.app/login)
 
 Descripción: Una plataforma social interactiva para compartir fotografías donde los usuarios pueden compartir y descubrir imágenes de lugares a lo largo de s. Incluye autenticación completa de usuarios, gestión de perfiles e interacciones sociales mediante un sistema de “likes”.
 
-### 🌟 [Proyecto 3](https://eduardocrco.github.io/web_project_homeland/)
+### 🌟 [Proyecto 3: De Patria a Patria](https://eduardocrco.github.io/web_project_homeland/)
 
 Descripción: An interactive web art gallery showcasing stories of global places through photographs and narratives from technology professionals. Features fully responsive design and integrated NFT functionality for digital art purchases.
 
