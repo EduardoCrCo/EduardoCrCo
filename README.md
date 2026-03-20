@@ -8,8 +8,9 @@
 
 ```javascript
 const eduardo = {
-  ubicacion: "🌍",
-  educacion: "TripleTen - Desarrollo Web",
+  ubicacion: "🌍 Tijuana México",
+  educacion: ["Universidad Autónoma de Baja California": "Licencitura en informática"
+              "TripleTen": "Desarrollo Web"],
   enfoque: ["Frontend", "Backend", "Full Stack"],
   aprendiendo: ["JavaScript", "React", "Node.js", "HTML/CSS"],
   objetivos: "Convertirme en desarrollador Full Stack",
