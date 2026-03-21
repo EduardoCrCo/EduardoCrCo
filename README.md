@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Eduardo Cruz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Web+Certificado;Experiencia+en +pruebas+ICT+y+pruebas+Funcionales;Lean+Manufacturing;Apasionado+por+la+Tecnolog%C3%ADa;Siempre+Aprendiendo+Algo+Nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Web+Certificado;Experiencia+en+pruebas+ICT;Experiencia+en+pruebas+Funcionales;Lean+Manufacturing;Apasionado+por+la+Tecnolog%C3%ADa;Siempre+Aprendiendo+Algo+Nuevo" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
